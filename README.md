@@ -4,6 +4,8 @@ Two neural networks (MLP and CNN) for the balanced split of the EMNIST dataset
 
 Link to the .ipynb file: https://colab.research.google.com/drive/1FBmaKYc1K71tmIIlUgp4idK4Oe02aLdY?usp=sharing
 
+Link to the accompanying report: https://drive.google.com/file/d/1eZiE8eLkTU6I1Z33_VhUWVUxmhIF-w7z/view?usp=sharing
+
 
 Project Goal:
 
