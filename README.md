@@ -1,4 +1,5 @@
 # EMNIST-multiclass-classification-problem
+Link to the .ipynb file: https://colab.research.google.com/drive/1FBmaKYc1K71tmIIlUgp4idK4Oe02aLdY?usp=sharing
 Two neural networks (MLP and CNN) for the balanced split of the EMNIST dataset 
 Project Goal:
 
