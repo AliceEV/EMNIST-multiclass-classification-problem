@@ -6,6 +6,7 @@ Link to the .ipynb file: https://colab.research.google.com/drive/1FBmaKYc1K71tmI
 
 Link to the accompanying report: https://drive.google.com/file/d/1eZiE8eLkTU6I1Z33_VhUWVUxmhIF-w7z/view?usp=sharing
 
+Link to the .csv: https://drive.google.com/file/d/1ZBiyCidQ-VpJwyPqKe66qBFqydJ6d_8h/view?usp=sharing
 
 Project Goal:
 
