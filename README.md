@@ -1,6 +1,10 @@
 # EMNIST-multiclass-classification-problem
+
+Two neural networks (MLP and CNN) for the balanced split of the EMNIST dataset
+
 Link to the .ipynb file: https://colab.research.google.com/drive/1FBmaKYc1K71tmIIlUgp4idK4Oe02aLdY?usp=sharing
-Two neural networks (MLP and CNN) for the balanced split of the EMNIST dataset 
+
+
 Project Goal:
 
 This project aims to build a neural network model to solve the EMNIST classification problem. As deep neural networks are widely used in various domains, such as computer vision, natural language processing and medical image analysis, how to create a proper neural network to achieve a specific task has become very important. 
